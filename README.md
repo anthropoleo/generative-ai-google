@@ -156,14 +156,8 @@ For more Vertex AI samples, please visit the [Vertex AI samples GitHub repositor
   - [dataflow-opinion-analysis](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
   - [genai-beyond-basics](https://github.com/meteatamel/genai-beyond-basics)
 
-## Contributing
+## NOTES
 
-Contributions welcome! See the [Contributing Guide](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/CONTRIBUTING.md).
+RAG examples on Gemini and embeddings directory
 
-## Getting help
 
-Please use the [issues page](https://github.com/GoogleCloudPlatform/generative-ai/issues) to provide suggestions, feedback or submit a bug report.
-
-## Disclaimer
-
-This repository itself is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
